@@ -1,0 +1,55 @@
+.card > .content > ul {
+  list-style-type: none;
+}
+
+.card > .content > ul > li {
+  margin-top: 18px;
+}
+
+
+.card {
+  background: #96A3DD ;
+  border-radius: 1px;
+  height: 325px;
+  
+  margin: 16px;
+  position: relative;
+  width: 325px;
+  text-align: left;
+}
+
+
+
+
+
+.card > .img-container {
+  height: 63%;
+  overflow: hidden;
+  text-align: center;
+
+  background: #96A3DD;
+}
+.card > .img-container > img {
+  width: 88%
+}
+
+.card > .content {
+  padding-left: 16px;
+
+  padding-right: 16px;
+  font-size: 15px;
+}
+
+
+
+.card > .remove {
+  color: #332024;
+  font-size: 48px;
+  position: absolute;
+  top: -20px;
+  right: 5px;
+  cursor: pointer;
+}
+
+.card > .remove:hover {
+  color: #7500d5;

@@ -1,0 +1,14 @@
+.heading {
+  padding-top: 60px;
+  align-content: flex-start;
+  overflow: auto;
+  height: 100%;
+  display: flex;
+  
+  flex-flow: row wrap;
+  padding: 25px;
+  
+  justify-content: space-around;
+  
+  background: #321E30;
+}

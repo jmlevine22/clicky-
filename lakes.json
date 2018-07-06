@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "name": "Lake Moraine",
+    "image": "https://s-ec.bstatic.com/images/hotel/max1280x900/118/118815913.jpg",
+    "park": "Banff National",
+    "location": "Alberta, Canada"
+  },
+  {
+    "id": 2,
+    "name": "Crater Lake",
+    "image": "https://www.national-park.com/wp-content/uploads/2016/04/Welcome-to-Crater-Lake-National-Park.jpeg",
+    "park": "Crater National Park",
+    "location": "Oregon"
+
+  },
+  {
+    "id": 3,
+    "name": "Lake McDonald",
+    "image": "https://assets0.roadtrippers.com/uploads/poi_gallery_image/image/319709248/-quality_60_-interlace_Plane_-resize_1024x480_U__-gravity_center_-extent_1024x480/poi_gallery_image-image-05a4a473-9d1b-46b4-8070-6927eb60e504.jpg",
+    "park": "Glacier National Park",
+    "location": "Montana"
+  },
+  {
+    "id": 4,
+    "name": "Lake Cresent",
+    "image": "https://www.myolympicpark.com/.image/t_share/MTQ1NjkwMzEyODQwMTkzMDc2/ol-lake-crescent_dp_680.jpg",
+    "park": "Olympic National Park",
+    "location": "Washington"
+  },
+  {
+    "id": 5,
+    "name": "St Mary Lake",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/A105%2C_Glacier_National_Park%2C_Montana%2C_USA%2C_Saint_Mary_Lake%2C_2004.jpg",
+    "park": "Glacier National Park",
+    "location": "Montana"
+  },
+  {
+    "id": 6,
+    "name": "Yellowstone Lake",
+    "image": "https://travel.usnews.com/static-travel/images/destinations/7/yellowstone_lake_yellowstone.jpg",
+    "park": "Yellowstone National Park",
+    "location": "California"
+  },
+  {
+    "id": 7,
+    "name": "Twin Lakes",
+    "image": "http://stonewoodexpeditions.com/wp-content/uploads/2015/04/@-StonewoodX-Trip-Banners-and-Images-twin.jpg",
+    "park": "Lake Clark National Park",
+    "location": "Alaska"
+  },
+  {
+    "id": 8,
+    "name": "Waterton Lake",
+    "image": "http://www.experiencemountainparks.com/wp-content/uploads/2018/06/Waterton-Lakes-National-Park.jpg",
+    "park": "Waterton National Park",
+    "location": "Montana & Alberta"
+  }
+  
+]
